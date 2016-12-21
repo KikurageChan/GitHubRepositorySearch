@@ -1,12 +1,11 @@
 # GitHubRepositorySearch
-ストアに公開はしていませんが、  
 - インクリメンタルサーチ
 - ユーザーのログイン認証
 - HTTP通信
 - JSONエンコード
 - WebView  
 
-を勉強するために作成してみました。
+を勉強するために作成してみました。(ストアに公開はしていません)
 
 ![](https://github.com/KikurageChan/GitHubRepositorySearch/wiki/images/icon.png) 
 
